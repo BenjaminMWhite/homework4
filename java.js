@@ -9,7 +9,7 @@ var buttonSeven = document.createElement("button")
 buttonOne.className = "button1"
 function redirect(){
 
-    window.location.href = "C:/Users/bwhit/Documents/university/homework4/QuizPart.html"
+    window.location.href = "https://github.com/BenjaminMWhite/homework4/blob/main/QuizPart.html"
 }
 addEventListener("click", redirect)
 
