@@ -109,7 +109,7 @@ function checkAnswer2(){
      questionDisplay4.innerHTML = currentAnswerFour
 
     }
-    else window.location.href = "C:/Users/bwhit/Documents/university/homework4/hall of fame.html"
+    else window.location.href = "https://github.com/BenjaminMWhite/homework4/blob/main/hall%20of%20fame.html"
 }
   //  else 
    // quizzTimer = quizzTimer-1
@@ -144,7 +144,7 @@ function checkAnswer3(){
   //  else 
   // quizzTimer = quizzTimer-1
 }
-else window.location.href = "C:/Users/bwhit/Documents/university/homework4/hall of fame.html"}
+else window.location.href = "https://github.com/BenjaminMWhite/homework4/blob/main/hall%20of%20fame.htmll"}
 function checkAnswer4(){
     checkAnswer = 4
     if (checkAnswer ===checkedAnswer)
@@ -171,7 +171,7 @@ function checkAnswer4(){
    questionDisplay3.innerHTML = currentAnswerThree
      questionDisplay4.innerHTML = currentAnswerFour
     }
-    else window.location.href = "C:/Users/bwhit/Documents/university/homework4/hall of fame.html"
+    else window.location.href = "https://github.com/BenjaminMWhite/homework4/blob/main/hall%20of%20fame.html"
 }
 
 
