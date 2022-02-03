@@ -78,7 +78,7 @@ function checkAnswer1()
 
 
     }
-    else window.location.href = "C:/Users/bwhit/Documents/university/homework4/hall of fame.html"
+    else window.location.href = "https://github.com/BenjaminMWhite/homework4/blob/main/hall%20of%20fame.html"
   //  else 
    // quizzTimer = quizzTimer-1
     }
